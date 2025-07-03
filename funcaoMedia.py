@@ -17,7 +17,8 @@ def resultado(n1,n2):
     print('Média: ',media, 'Resultado: ', end="")
     if media >= 7:
         print('Aprovado')
-    else:
+    else\
+            :
         print('Reprovado')
 
 a = lernotas()
